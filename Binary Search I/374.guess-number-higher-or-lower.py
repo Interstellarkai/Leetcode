@@ -17,7 +17,7 @@ class Solution:
         # Initialize
         min = 1
         max = n
-        
+
         # Main
         while(min <= max):
             mid = int(min + (max-min)/2)
@@ -35,4 +35,3 @@ class Solution:
         # Default : Error
         return -1
 # @lc code=end
-

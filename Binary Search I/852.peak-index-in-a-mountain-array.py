@@ -21,4 +21,3 @@ class Solution:
         return left
 
 # @lc code=end
-

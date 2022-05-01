@@ -8,12 +8,11 @@
 class Solution:
     def countOdds(self, low: int, high: int) -> int:
         count = high - low + 1
-        answer = count // 2 # {even, even}, {odd, even}, {even, odd}
-        
+        answer = count // 2  # {even, even}, {odd, even}, {even, odd}
+
         # {odd, odd}
-        if ( (low%2 != 0) and (high%2 != 0) ):
-            answer +=1
-        
+        if ((low % 2 != 0) and (high % 2 != 0)):
+            answer += 1
+
         return answer
 # @lc code=end
-

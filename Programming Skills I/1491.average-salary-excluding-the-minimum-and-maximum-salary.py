@@ -13,4 +13,3 @@ class Solution:
         average = sum(salary)/len(salary)
         return average
 # @lc code=end
-

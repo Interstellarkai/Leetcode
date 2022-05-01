@@ -8,9 +8,8 @@
 class Solution:
     def hammingWeight(self, n: int) -> int:
         count = 0
-        while n: # Loop till n is 0
-            n &= n-1 # operator returns the intersect between the 2 vals
+        while n:  # Loop till n is 0
+            n &= n-1  # operator returns the intersect between the 2 vals
             count += 1
         return count
 # @lc code=end
-
