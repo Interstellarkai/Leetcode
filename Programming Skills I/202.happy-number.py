@@ -10,7 +10,7 @@ class Solution:
         """
         With reference to solution.
         Learnt: A cycle is possible, so my appraoch to coding a terminating case for False is not feasible.
-        T : O(LogN)
+        T : O(NLogN)
         S : O(LogN)
         """
         def looper(n: int) -> int:
