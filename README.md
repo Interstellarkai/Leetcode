@@ -1,4 +1,142 @@
 # :fire: Leetcode Challenge :fire:
+# :pushpin: [Data Structure](https://leetcode.com/study-plan/data-structure/)
+
+## Data Structure I
+
+| Day  | Difficulty | Problem                                                                                                                                     | Attempt                                                                               |
+| :--- | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------ |
+| 1    | Easy       | [Array - 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                        | [Python3](Data%20Structure%20I/53.maximum-subarray.py)                                |
+| 1    | Easy       | [Array - 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | [Python3](Data%20Structure%20I/53.maximum-subarray.py)                                |
+| 2    | Easy       | [Array - 1. Two Sum](https://leetcode.com/problems/two-sum/)                                                                                | [Python3](Data%20Structure%20I/1.two-sum.py)                                          |
+| 2    | Easy       | [Array - 88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                         | [Python3](Data%20Structure%20I/88.merge-sorted-array.py)                              |
+| 3    | Easy       | [Array - 350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                                  | [Python3](Data%20Structure%20I/350.intersection-of-two-arrays-ii.py)                  |
+| 3    | Easy       | [Array - 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                              | [Python3](Data%20Structure%20I/121.best-time-to-buy-and-sell-stock.py)                |
+| 4    | Easy       | [Array - 566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                        | [Python3](Data%20Structure%20I/566.reshape-the-matrix.py)                             |
+| 4    | Easy       | [Array - 118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                           | [Python3](Data%20Structure%20I/118.pascals-triangle.py)                               |
+| 5    | Medium     | [Array - 36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                     | [Python3](Data%20Structure%20I/36.valid-sudoku.py)                                    |
+| 5    | Medium     | [Array - 74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                         | [Python3](Data%20Structure%20I/74.search-a-2-d-matrix.py)                             |
+| 6    | Easy       | [String - 387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                       | [Python3](Data%20Structure%20I/387.first-unique-character-in-a-string.py)             |
+| 6    | Easy       | [String - 383. Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                     | [Python3](Data%20Structure%20I/383.ransom-note.py)                                    |
+| 6    | Easy       | [String - 242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                 | [Python3](Data%20Structure%20I/242.valid-anagram.py)                                  |
+| 7    | Easy       | [Linked List - 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                    | [Python3](Data%20Structure%20I/141.linked-list-cycle.py)                              |
+| 7    | Easy       | [Linked List - 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                           | [Python3](Data%20Structure%20I/21.merge-two-sorted-lists.py)                          |
+| 7    | Easy       | [Linked List - 203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                | [Python3](Data%20Structure%20I/203.remove-linked-list-elements.py)                    |
+| 8    | Easy       | [Linked List - 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                | [Python3](https://github.com/Data%20Structure%20I/206.reverse-linked-list.py)         |
+| 8    | Easy       | [Linked List - 83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                   | [Python3](Data%20Structure%20I/83.remove-duplicates-from-sorted-list.py)              |
+| 9    | Easy       | [Stack / Queue - 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                   | [Python3](Data%20Structure%20I/20.valid-parentheses.py)                               |
+| 9    | Easy       | [Stack / Queue - 232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                            | [Python3](Data%20Structure%20I/232.implement-queue-using-stacks.py)                   |
+| 10   | Easy       | [Tree - 144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)                                 | [Python3](Data%20Structure%20I/144.binary-tree-preorder-traversal.py)                 |
+| 10   | Easy       | [Tree - 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                    | [Python3](Data%20Structure%20I/94.binary-tree-inorder-traversal.py)                   |
+| 10   | Easy       | [Tree - 145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)                               | [Python3](Data%20Structure%20I/145.binary-tree-postorder-traversal.py)                |
+| 11   | Medium     | [Tree - 102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                           | [Python3](Data%20Structure%20I/102.binary-tree-level-order-traversal.py)              |
+| 11   | Easy       | [Tree - 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                     | [Python3](Data%20Structure%20I/104.maximum-depth-of-binary-tree.py)                   |
+| 11   | Easy       | [Tree - 101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                 | [Python3](Data%20Structure%20I/101.symmetric-tree.py)                                 |
+| 12   | Easy       | [Tree - 226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         | [Python3](Data%20Structure%20I/226.invert-binary-tree.py)                             |
+| 12   | Easy       | [Tree - 112. Path Sum](https://leetcode.com/problems/path-sum/)                                                                             | [Python3](Data%20Structure%20I/112.path-sum.py)                                       |
+| 13   | Easy       | [Tree - 700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                 | [Python3](Data%20Structure%20I/700.search-in-a-binary-search-tree.py)                 |
+| 13   | Medium     | [Tree - 701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                             | [Python3](Data%20Structure%20I/701.insert-into-a-binary-search-tree.py)               |
+| 14   | Medium     | [Tree - 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                        | [Python3](Data%20Structure%20I/98.validate-binary-search-tree.py)                     |
+| 14   | Easy       | [Tree - 653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)                                         | [Python3](Data%20Structure%20I/653.two-sum-iv-input-is-a-bst.py)                      |
+| 14   | Easy       | [Tree - 235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python3](Data%20Structure%20I/235.lowest-common-ancestor-of-a-binary-search-tree.py) |
+
+## Data Structure II
+
+| Day  | Difficulty | Problem                                                                                                                                                           | Attempt              |
+| :--- | :--------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------- |
+| 1    | Easy       | [Array - 136. Single Number](https://leetcode.com/problems/single-number/)                                                                                        | [:pencil2:Python3]() |
+| 1    | Easy       | [Array - 169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                  | [:pencil2:Python3]() |
+| 1    | Medium     | [Array - 15. 3Sum](https://leetcode.com/problems/3sum/)                                                                                                           | [:pencil2:Python3]() |
+| 2    | Medium     | [Array - 75. Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                                             | [:pencil2:Python3]() |
+| 2    | Medium     | [Array - 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                     | [:pencil2:Python3]() |
+| 2    | Easy       | [Array - 706. Design HashMap](https://leetcode.com/problems/design-hashmap/)                                                                                      | [:pencil2:Python3]() |
+| 3    | Easy       | [Array - 119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                           | [:pencil2:Python3]() |
+| 3    | Medium     | [Array - 48. Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                           | [:pencil2:Python3]() |
+| 3    | Medium     | [Array - 59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                                                                   | [:pencil2:Python3]() |
+| 4    | Medium     | [Array - 240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                                                                        | [:pencil2:Python3]() |
+| 4    | Medium     | [Array - 435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                                                | [:pencil2:Python3]() |
+| 5    | Medium     | [Array - 334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)                                                      | [:pencil2:Python3]() |
+| 5    | Medium     | [Array - 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                          | [:pencil2:Python3]() |
+| 5    | Medium     | [Array - 560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                                                        | [:pencil2:Python3]() |
+| 6    | Easy       | [String - 415. Add Strings](https://leetcode.com/problems/add-strings/)                                                                                           | [:pencil2:Python3]() |
+| 6    | Easy       | [String - 409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                                             | [:pencil2:Python3]() |
+| 7    | Easy       | [String - 290. Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                                         | [:pencil2:Python3]() |
+| 7    | Medium     | [String - 763. Partition Labels](https://leetcode.com/problems/partition-labels/)                                                                                 | [:pencil2:Python3]() |
+| 8    | Medium     | [String - 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                      | [:pencil2:Python3]() |
+| 8    | Medium     | [String - 43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)                                                                                  | [:pencil2:Python3]() |
+| 9    | Medium     | [String - 187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)                                                                     | [:pencil2:Python3]() |
+| 9    | Medium     | [String - 5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                         | [:pencil2:Python3]() |
+| 10   | Medium     | [Linked List - 2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                | [:pencil2:Python3]() |
+| 10   | Medium     | [Linked List - 142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                    | [:pencil2:Python3]() |
+| 11   | Easy       | [Linked List - 160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                            | [:pencil2:Python3]() |
+| 11   | Medium     | [Linked List - 82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)                                   | [:pencil2:Python3]() |
+| 12   | Medium     | [Linked List - 24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                                       | [:pencil2:Python3]() |
+| 12   | Medium     | [Linked List - 707. Design Linked List](https://leetcode.com/problems/design-linked-list/)                                                                        | [:pencil2:Python3]() |
+| 13   | Hard       | [Linked List - 25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                                                             | [:pencil2:Python3]() |
+| 13   | Medium     | [Linked List - 143. Reorder List](https://leetcode.com/problems/reorder-list/)                                                                                    | [:pencil2:Python3]() |
+| 14   | Easy       | [Stack / Queue - 155. Min Stack](https://leetcode.com/problems/min-stack/)                                                                                        | [:pencil2:Python3]() |
+| 14   | Medium     | [Stack / Queue - 1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)                         | [:pencil2:Python3]() |
+| 14   | Medium     | [Stack / Queue - 1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)                                 | [:pencil2:Python3]() |
+| 15   | Easy       | [Tree - 108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)                               | [:pencil2:Python3]() |
+| 15   | Medium     | [Tree - 105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [:pencil2:Python3]() |
+| 15   | Medium     | [Tree - 103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)                                   | [:pencil2:Python3]() |
+| 16   | Medium     | [Tree - 199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                                             | [:pencil2:Python3]() |
+| 16   | Medium     | [Tree - 113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                                                             | [:pencil2:Python3]() |
+| 16   | Medium     | [Tree - 450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)                                                                           | [:pencil2:Python3]() |
+| 17   | Medium     | [Tree - 230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                                         | [:pencil2:Python3]() |
+| 17   | Medium     | [Tree - 173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)                                                             | [:pencil2:Python3]() |
+| 18   | Medium     | [Tree - 236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)                                     | [:pencil2:Python3]() |
+| 18   | Hard       | [Tree - 297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                         | [:pencil2:Python3]() |
+| 19   | Easy       | [Graph - 997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)                                                                            | [:pencil2:Python3]() |
+| 19   | Medium     | [Graph - 1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)                       | [:pencil2:Python3]() |
+| 19   | Medium     | [Graph - 841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)                                                                                      | [:pencil2:Python3]() |
+| 20   | Medium     | [Heap (Priority Queue) - 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                    | [:pencil2:Python3]() |
+| 20   | Medium     | [Heap (Priority Queue) - 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                                    | [:pencil2:Python3]() |
+| 21   | Medium     | [Heap (Priority Queue) - 451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                          | [:pencil2:Python3]() |
+| 21   | Medium     | [Heap (Priority Queue) - 973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                              | [:pencil2:Python3]() |
+
+# :pushpin: [Algorithm](https://leetcode.com/study-plan/algorithm/)
+
+## Algorithm I
+
+| Day  | Difficulty | Problem                                                                                                                                                                    | Attempt              |
+| :--- | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------- |
+| 1    | Easy       | [Binary Search - 704. Binary Search](https://leetcode.com/problems/binary-search/)                                                                                         | [:pencil2:Python3]() |
+| 1    | Easy       | [Binary Search - 278. First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                                                 | [:pencil2:Python3]() |
+| 1    | Easy       | [Binary Search - 35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                        | [:pencil2:Python3]() |
+| 2    | Easy       | [Two Pointers - 977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                                  | [:pencil2:Python3]() |
+| 2    | Medium     | [Two Pointers - 189. Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                            | [:pencil2:Python3]() |
+| 3    | Easy       | [Two Pointers - 283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                              | [:pencil2:Python3]() |
+| 3    | Medium     | [Two Pointers - 167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                  | [:pencil2:Python3]() |
+| 4    | Easy       | [Two Pointers - 344. Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                        | [:pencil2:Python3]() |
+| 4    | Easy       | [Two Pointers - 557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                                          | [:pencil2:Python3]() |
+| 5    | Easy       | [Two Pointers - 876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                                                  | [:pencil2:Python3]() |
+| 5    | Medium     | [Two Pointers - 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                                     | [:pencil2:Python3]() |
+| 6    | Medium     | [Sliding Window - 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                        | [:pencil2:Python3]() |
+| 6    | Medium     | [Sliding Window - 567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                                        | [:pencil2:Python3]() |
+| 7    | Easy       | [Breadth-First Search / Depth-First Search - 733. Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                   | [:pencil2:Python3]() |
+| 7    | Medium     | [Breadth-First Search / Depth-First Search - 695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                   | [:pencil2:Python3]() |
+| 8    | Easy       | [Breadth-First Search / Depth-First Search - 617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                           | [:pencil2:Python3]() |
+| 8    | Medium     | [Breadth-First Search / Depth-First Search - 116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [:pencil2:Python3]() |
+| 9    | Medium     | [Breadth-First Search / Depth-First Search - 542. 01 Matrix](https://leetcode.com/problems/01-matrix/)                                                                     | [:pencil2:Python3]() |
+| 9    | Medium     | [Breadth-First Search / Depth-First Search - 994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                         | [:pencil2:Python3]() |
+| 10   | Easy       | [Recursion / Backtracking - 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                             | [:pencil2:Python3]() |
+| 10   | Easy       | [Recursion / Backtracking - 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                  | [:pencil2:Python3]() |
+| 11   | Medium     | [Recursion / Backtracking - 77. Combinations](https://leetcode.com/problems/combinations/)                                                                                 | [:pencil2:Python3]() |
+| 11   | Medium     | [Recursion / Backtracking - 46. Permutations](https://leetcode.com/problems/permutations/)                                                                                 | [:pencil2:Python3]() |
+| 11   | Medium     | [Recursion / Backtracking - 784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                                                          | [:pencil2:Python3]() |
+| 12   | Easy       | [Dynamic Programming - 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                | [:pencil2:Python3]() |
+| 12   | Medium     | [Dynamic Programming - 198. House Robber](https://leetcode.com/problems/house-robber/)                                                                                     | [:pencil2:Python3]() |
+| 12   | Medium     | [Dynamic Programming - 120. Triangle](https://leetcode.com/problems/triangle/)                                                                                             | [:pencil2:Python3]() |
+| 13   | Easy       | [Bit Manipulation - 231. Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                        | [:pencil2:Python3]() |
+| 13   | Easy       | [Bit Manipulation - 191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                | [:pencil2:Python3]() |
+| 14   | Easy       | [Bit Manipulation - 190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                                        | [:pencil2:Python3]() |
+| 14   | Easy       | [Bit Manipulation - 136. Single Number](https://leetcode.com/problems/single-number/)                                                                                      | [:pencil2:Python3]() |
+
+
+
+
+
+
 
 # :pushpin: [Binary Search](https://leetcode.com/study-plan/binary-search/)
 
@@ -71,50 +209,9 @@
 | 12   | Easy       | [Class & Object -]()                                                                                                                                                           | [:pencil2:Python3]()                                                                                |
 | 12   | Easy       | [Class & Object -]()                                                                                                                                                           | [:pencil2:Python3]()                                                                                |
 
-# :pushpin: [Data Structure](https://leetcode.com/study-plan/data-structure/)
-
-## Data Structure I
-
-| Day  | Difficulty | Problem                                                                                                                   | Attempt                                                                       |
-| :--- | :--------- | :------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------- |
-| 1    | Easy       | [Array - 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                      | [Python3](Data%20Structure%20I/53.maximum-subarray.py)                        |
-| 1    | Easy       | [Array - 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                           | [Python3](Data%20Structure%20I/53.maximum-subarray.py)                        |
-| 2    | Easy       | [Array - 1. Two Sum](https://leetcode.com/problems/two-sum/)                                                              | [Python3](Data%20Structure%20I/1.two-sum.py)                                  |
-| 2    | Easy       | [Array - 88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                       | [Python3](Data%20Structure%20I/88.merge-sorted-array.py)                      |
-| 3    | Easy       | [Array - 350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                | [Python3](Data%20Structure%20I/350.intersection-of-two-arrays-ii.py)          |
-| 3    | Easy       | [Array - 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)            | [Python3](Data%20Structure%20I/121.best-time-to-buy-and-sell-stock.py)        |
-| 4    | Easy       | [Array - 566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                      | [Python3](Data%20Structure%20I/566.reshape-the-matrix.py)                     |
-| 4    | Easy       | [Array - 118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                         | [Python3](Data%20Structure%20I/118.pascals-triangle.py)                       |
-| 5    | Medium     | [Array - 36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                   | [Python3](Data%20Structure%20I/36.valid-sudoku.py)                            |
-| 5    | Medium     | [Array - 74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                       | [Python3](Data%20Structure%20I/74.search-a-2-d-matrix.py)                     |
-| 6    | Easy       | [String - 387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)     | [Python3](Data%20Structure%20I/387.first-unique-character-in-a-string.py)     |
-| 6    | Easy       | [String - 383. Ransom Note](https://leetcode.com/problems/ransom-note/)                                                   | [Python3](Data%20Structure%20I/383.ransom-note.py)                            |
-| 6    | Easy       | [String - 242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                               | [Python3](Data%20Structure%20I/242.valid-anagram.py)                          |
-| 7    | Easy       | [Linked List - 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                  | [Python3](Data%20Structure%20I/141.linked-list-cycle.py)                      |
-| 7    | Easy       | [Linked List - 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                         | [Python3](Data%20Structure%20I/21.merge-two-sorted-lists.py)                  |
-| 7    | Easy       | [Linked List - 203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)              | [Python3](Data%20Structure%20I/203.remove-linked-list-elements.py)            |
-| 8    | Easy       | [Linked List - 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                              | [Python3](https://github.com/Data%20Structure%20I/206.reverse-linked-list.py) |
-| 8    | Easy       | [Linked List - 83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](Data%20Structure%20I/83.remove-duplicates-from-sorted-list.py)      |
-| 9    | Easy       | [Stack / Queue - 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                 | [Python3](Data%20Structure%20I/20.valid-parentheses.py)                       |
-| 9    | Easy       | [Stack / Queue - 232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)          | [Python3](Data%20Structure%20I/232.implement-queue-using-stacks.py)           |
-| 10   | Easy       | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-| 10   | Easy       | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-| 10   | Easy       | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-| 11   | Medium     | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-| 11   | Easy       | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-| 11   | Easy       | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-| 12   | Easy       | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-| 12   | Easy       | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-| 13   | Easy       | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-| 13   | Medium     | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-| 14   | Medium     | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-| 14   | Easy       | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-| 14   | Easy       | [Tree -]()                                                                                                                | [:pencil2:Python3]()                                                          |
-
 # :pushpin: Future
 
+-   [SQL](https://leetcode.com/study-plan/sql/)
 -   [Top Interview Questions Easy](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
--   [Algorithm](https://leetcode.com/study-plan/algorithm/)
 -   [Dynamic Programming](https://leetcode.com/study-plan/dynamic-programming/)
 -   [Graph Theory](https://leetcode.com/study-plan/graph/)
--   [SQL](https://leetcode.com/study-plan/sql/)
