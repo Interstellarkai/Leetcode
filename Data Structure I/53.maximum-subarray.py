@@ -40,8 +40,8 @@ class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         """
         Dynamic programming approach: Kadane's approach
-        T: O(N)
-        S: O(1)
+        T: O(N) 36.7% | 1164ms
+        S: O(1) 77.95% | 27.8mb
         """
         # Initialize
         currSum = maxVal = nums[0]

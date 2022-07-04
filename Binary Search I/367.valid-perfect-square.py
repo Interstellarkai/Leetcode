@@ -9,7 +9,7 @@ class Solution:
     def isPerfectSquare(self, num: int) -> bool:
         """
         Started off by reading the tag that it was binary search.
-        Written a template of binary search followed by deliberating how it will fixed into the context
+        Written a template of binary search followed by deliberating how it will fit into the context
 
         T: O(LogN)
         S: O(1)
