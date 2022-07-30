@@ -48,7 +48,7 @@ class Solution:
 
         # Linear loop through the array
         for num in nums[1:]:
-            # Is it more worth it to the old val with the currSum, or is it better to start afresh with the new num
+            # Is it more worth it to continue, or is it better to start afresh with the new num
             currSum = max(num, currSum + num)
             # Check back and update maxVal
             maxVal = max(maxVal, currSum)
