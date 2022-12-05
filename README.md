@@ -45,7 +45,7 @@
 | :--- | :--------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------- |
 | 1    | Easy       | [Array - 136. Single Number](https://leetcode.com/problems/single-number/)                                                                                        | [Python3]() |
 | 1    | Easy       | [Array - 169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                  | [Python3]() |
-| 1    | Medium     | [Array - 15. 3Sum](https://leetcode.com/problems/3sum/)                                                                                                           | [:pencil2:Python3]() |
+| 1    | Medium     | [Array - 15. 3Sum](https://leetcode.com/problems/3sum/)                                                                                                           | [Python3]() |
 | 2    | Medium     | [Array - 75. Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                                             | [Python3]() |
 | 2    | Medium     | [Array - 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                     | [:pencil2:Python3]() |
 | 2    | Easy       | [Array - 706. Design HashMap](https://leetcode.com/problems/design-hashmap/)                                                                                      | [:pencil2:Python3]() |
