@@ -47,7 +47,7 @@
 | 1    | Easy       | [Array - 169. Majority Element](https://leetcode.com/problems/majority-element/)                                                                                  | [Python3]() |
 | 1    | Medium     | [Array - 15. 3Sum](https://leetcode.com/problems/3sum/)                                                                                                           | [Python3]() |
 | 2    | Medium     | [Array - 75. Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                                             | [Python3]() |
-| 2    | Medium     | [Array - 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                     | [:pencil2:Python3]() |
+| 2    | Medium     | [Array - 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                     | [Python3]() |
 | 2    | Easy       | [Array - 706. Design HashMap](https://leetcode.com/problems/design-hashmap/)                                                                                      | [:pencil2:Python3]() |
 | 3    | Easy       | [Array - 119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                           | [:pencil2:Python3]() |
 | 3    | Medium     | [Array - 48. Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                           | [:pencil2:Python3]() |
