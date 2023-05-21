@@ -33,7 +33,7 @@ class Solution:
 
         """
         for r in range(N):
-            r[:] = r[::-1]
+            r[:] = r[::-1] # r[:] `means within`
 
         Run the following code to know if you're doing list in-place or not
         # print hex(id(x))

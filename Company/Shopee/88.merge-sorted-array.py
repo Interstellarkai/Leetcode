@@ -35,8 +35,8 @@ class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
         Slicing method
-        num[:] => pass by reference/pointer
-        num => pass by value
+        num[:] => pass by value
+        num => pass by reference/pointer
         T : O(N) 32.51% | 66ms
         S : O(1) 85.62% | 13.9mb
         """

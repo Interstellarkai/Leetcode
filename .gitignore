@@ -1,2 +1,17 @@
 # Ignore actual interview questions that are not open for disclosure
 Company/Actual/
+Cheatsheet/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS
+.DS_Store
